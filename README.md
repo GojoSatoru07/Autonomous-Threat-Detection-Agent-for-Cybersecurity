@@ -29,6 +29,10 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+In the terminal:
+python -m venv threat-agent-env
+
 Activate the virtual environment:
 
 # Windows
